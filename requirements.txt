@@ -1,0 +1,6 @@
+autoenv
+Flask
+pyjwt
+pandas
+numpy
+requests
