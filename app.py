@@ -94,6 +94,3 @@ def get_project_details():
                 'status': 'Failed',
                 'error': error
             }, 501
-
-if __name__ == '__main__':
-    app.run()
